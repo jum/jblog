@@ -2,6 +2,8 @@
 title: "The Cost of IP Traffic"
 date: 2016-09-12T20:54:00+02:00
 draft: false
+tags: [ "Development", "Networking" ]
+categories: [ "Development" ]
 ---
 
 ## A Typical Scenario

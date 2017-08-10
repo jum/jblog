@@ -1,4 +1,4 @@
-baseURL = "http://jum.github.io/"
+baseURL = "https://jum.github.io/"
 languageCode = "en-us"
 title = "jum's random musings"
 theme = "ananke"
