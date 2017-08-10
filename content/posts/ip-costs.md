@@ -1,7 +1,7 @@
 ---
 title: "The Cost of IP Traffic"
 date: 2016-09-12T20:54:00+02:00
-draft: true
+draft: false
 ---
 
 ## A Typical Scenario
